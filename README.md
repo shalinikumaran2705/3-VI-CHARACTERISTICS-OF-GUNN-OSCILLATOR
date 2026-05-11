@@ -10,14 +10,14 @@ Gunn power supply, Gunn oscillator, PIN modulator, Isolator, Frequency Meter, Va
 
 **Experimental Setup:**
 
-<img width="880" height="180" alt="image" src="https://github.com/user-attachments/assets/c5e2a20b-5047-4518-886c-c020728660d5" />
+<img width="912" height="214" alt="image" src="https://github.com/user-attachments/assets/26803c84-084a-4ec6-8891-d4e42effb6f4" />
 
 **Theory**
 
 The Gunn oscillator is base on negative differential conductivity effect in bulk semi- conductors. Gunn diode has two conduction bands separated by an energy gap (greater than thermal agitation energies). When an electron is moved to the satellite energy band, it will have negative differentialmobility. This produces the negative resistance required for the oscillations.
 In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this case the oscillationfrequency is determined by cavity dimension than by diode itself. Although Gunn oscillator can be amplitude-modulated with the bias voltage, separate PIN modulator through is used in this experiment. A square wave modulating signal is applied through the modulator on to the microwave carrier signal.
 
-<img width="445" height="304" alt="image" src="https://github.com/user-attachments/assets/42d87349-4aa0-4730-bb70-9b4897411b7d" />
+<img width="568" height="392" alt="image" src="https://github.com/user-attachments/assets/ca8082c0-37a7-4afd-abbe-eea045273533" />
 
 **Procedure:**
 

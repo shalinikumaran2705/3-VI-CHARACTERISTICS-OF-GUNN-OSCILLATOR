@@ -55,9 +55,13 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 
 **B.Observation: ( Include your own Table relevant to the Experiment)** (Include Tabulation Part)
 
+<img width="2160" height="1508" alt="image" src="https://github.com/user-attachments/assets/04686b10-3a12-4be7-be3d-74988a6b2cfc" />
+
+
 **C.Analysis of Results: (Write your own)**
 
-(Include sample calculations/Display/plot/typical graph)
+<img width="1208" height="1600" alt="image" src="https://github.com/user-attachments/assets/ec9341a1-a68d-45d1-8995-5bd21c6b97d2" />
+
 
 **D.Conclusions: (Write  your Own)**
 
